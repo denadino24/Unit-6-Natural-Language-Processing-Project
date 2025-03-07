@@ -21,20 +21,10 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Video
 
-Record a short video of your project to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown code:
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+https://github.com/user-attachments/assets/9756426d-2538-4b86-b31e-58a767db31c1
 
 ## Project Description
-
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
+In this program, the goal is to collect a list of words from the boring.txt file and change it to the advanced.txt file word. For example, if the user inputs "I am feeling sad", the code will change it to output "I am feeling devastated", changing the boring/ basic word into a more advanced word. 
 
 ## NLP Techniques
-
-Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
+In this natural language processing program, many methods were implemented. For example, we implemented the enhanceVocabulary method which basically checks to see if the word that the user inputted is found in the boring.txt file, if it is then it returns true if else then it returns false. We also implemented other methods such as the isPrimitiveFeeling method which checks the location or index of the word and changes the boring word into a more advanced word. Another method that was implemented was the separateWords method which combined all of the methods and changed the boring word as well into an advanced word. 
